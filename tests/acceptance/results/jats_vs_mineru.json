@@ -1,0 +1,102 @@
+[
+ {
+  "paper": "doi-10.1038_s41467-021-24985-x",
+  "via": "given:id",
+  "license": "CC BY",
+  "comparison": "agree",
+  "sciverse_filled": 8,
+  "chars": 18313,
+  "words_mineru_in_jats": 0.955,
+  "words_jats_in_mineru": 0.982,
+  "tables_jats": 0,
+  "tables_mineru": 0,
+  "figs_jats": 2,
+  "imgs_mineru": 4,
+  "missing_img": [],
+  "top_mineru_only": [
+   "the",
+   "and",
+   "article",
+   "this",
+   "not",
+   "material",
+   "permission",
+   "creative"
+  ]
+ },
+ {
+  "paper": "doi-10.1038_nmeth.3393",
+  "via": "given:id",
+  "license": "TDM",
+  "comparison": "agree",
+  "sciverse_filled": 8,
+  "chars": 52101,
+  "words_mineru_in_jats": 0.951,
+  "words_jats_in_mineru": 0.969,
+  "tables_jats": 0,
+  "tables_mineru": 0,
+  "figs_jats": 3,
+  "imgs_mineru": 16,
+  "missing_img": [],
+  "top_mineru_only": [
+   "pubmed",
+   "mathrm",
+   "left",
+   "right",
+   "frac",
+   "delta",
+   "dot",
+   "array"
+  ]
+ },
+ {
+  "paper": "doi-10.3390_metabo13040558",
+  "via": "title:crossref",
+  "license": "CC BY",
+  "comparison": "agree",
+  "sciverse_filled": 8,
+  "chars": 43337,
+  "words_mineru_in_jats": 0.886,
+  "words_jats_in_mineru": 0.931,
+  "tables_jats": 2,
+  "tables_mineru": 2,
+  "figs_jats": 6,
+  "imgs_mineru": 39,
+  "missing_img": [],
+  "top_mineru_only": [
+   "the",
+   "crossref",
+   "pubmed",
+   "normalization",
+   "and",
+   "data",
+   "figure",
+   "values"
+  ]
+ },
+ {
+  "paper": "doi-10.1093_bib_bbae013",
+  "via": "given:id",
+  "license": "CC BY",
+  "comparison": "agree",
+  "sciverse_filled": 8,
+  "chars": 108130,
+  "words_mineru_in_jats": 0.973,
+  "words_jats_in_mineru": 0.969,
+  "tables_jats": 1,
+  "tables_mineru": 2,
+  "figs_jats": 9,
+  "imgs_mineru": 12,
+  "missing_img": [],
+  "top_mineru_only": [
+   "ocoteadb",
+   "actinomarinedb",
+   "org",
+   "records",
+   "inhouse",
+   "workf",
+   "daniela",
+   "chagas"
+  ]
+ }
+]

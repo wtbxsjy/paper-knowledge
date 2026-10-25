@@ -1,0 +1,24 @@
+{
+ "package": "paperkb_core",
+ "version": "0.1.0",
+ "files": {
+  "__init__.py": "879db70f667306403c6c69627f43119f421e798554d62cdcebe5575701c0b73c",
+  "compare.py": "8eeab8758d6fd1cf5bc48f8649b44e1165376fbe92fb7bd04716fa27e06cced7",
+  "credentials.py": "0aa06a11c2cf32d59e174475d93bf88bb1838209cf35caa53b0d3874f8856f4c",
+  "http.py": "6c9b76b48ccd08f5756dae385e3e27c84f60f5da5b03e6604031299dc405eaba",
+  "ids.py": "39a616d3729c1cf753aa9bb0b31cdcd0ea143a2587f6aa49d7fc5c1a39061aeb",
+  "jats.py": "2c612d5d61d1715e636de6567f671dbd0c38760c81f4109c326966be99428cb3",
+  "journals.py": "1c61a47dc5ffbf5d169c667ef4c3255465ac90fd3798a41e058e49686a3e45aa",
+  "layout.py": "caf72f3e574469a7d74cece4bbe1d8ccc8484e1b2a6ee0f98590263917852937",
+  "manifest.py": "93e936cd8f23d7e5b89d94876756b0fa0c1686b8a76e83064b64a24a48750671",
+  "mineru_cloud.py": "344905878348a7e311bb7a0839ce2518b5bb6edb6b8ecee81b42c45898fdfa66",
+  "pipeline.py": "a9509bfafd38618a9796fcdab24c24903077b5272ac7ede3cd91a8404bb193e6",
+  "resolve.py": "54febfeb50cc819976bd15e1e0574bf17e6d16db452036aed853e66f4b4d2b8d",
+  "sources/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sources/arxiv.py": "7eabe271536aa9a761b8adf160e37233af317d83454b4e07e18527cb48544877",
+  "sources/crossref.py": "56879d262dd26dc8e597e3a244ebb6bbdbcaedf0e2483aed83dc82119843f010",
+  "sources/pmc.py": "57dc5257bfaf88f75b2154099c8da20cb45ce489223b040e4802df4ed80cf6dd",
+  "sources/pubmed.py": "7233c6f6eb931dd9060009a68f8d8388da12e899adf43b501c57de62fe4a60f1",
+  "sources/sciverse.py": "0c7054d1983ceabeff6e0fb231788a8dfe7a371aeba394548a23b8848bd1f576"
+ }
+}

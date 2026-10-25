@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paperkb-core"
+version = "0.1.0"
+license = {text = "MIT"}
+description = "Rule-based paper metadata resolution, verification and full-text retrieval (shared core of the paper-knowledge skills)"
+requires-python = ">=3.9"
+dependencies = []          # stdlib only, by design: skills are copied, not pip-installed
+
+[tool.setuptools.packages.find]
+where = ["core"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["core"]

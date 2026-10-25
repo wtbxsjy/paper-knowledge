@@ -1,0 +1,371 @@
+[
+ {
+  "ref_id": "b6fcf43263",
+  "input": {
+   "id": "10.1038/s41467-021-24985-x"
+  },
+  "queue": "resolved",
+  "key": "doi-10.1038_s41467-021-24985-x",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "done",
+   "parse": "done"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "source": "pmc-oa",
+   "prefix": "PMC8346504.1",
+   "files": 9,
+   "license": "CC BY"
+  },
+  "fulltext_source": "pmc-oa",
+  "parser": "jats2md"
+ },
+ {
+  "ref_id": "ff55e3bc4b",
+  "input": {
+   "id": "PMC4449330"
+  },
+  "queue": "resolved",
+  "key": "doi-10.1038_nmeth.3393",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "done",
+   "parse": "done"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "source": "pmc-oa",
+   "prefix": "PMC4449330.1",
+   "files": 7,
+   "license": "TDM"
+  },
+  "fulltext_source": "pmc-oa",
+  "parser": "jats2md"
+ },
+ {
+  "ref_id": "3fd3ac8c77",
+  "input": {
+   "title": "Quality Control of Targeted Plasma Lipids in a Large-Scale Cohort Study Using Liquid Chromatography-Tandem Mass Spectrometry",
+   "authors": "Hirayama",
+   "journal": "Metabolites",
+   "year": 2023
+  },
+  "queue": "resolved",
+  "key": "doi-10.3390_metabo13040558",
+  "resolve_via": "title:crossref",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "done",
+   "parse": "done"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "source": "pmc-oa",
+   "prefix": "PMC10146188.1",
+   "files": 10,
+   "license": "CC BY"
+  },
+  "fulltext_source": "pmc-oa",
+  "parser": "jats2md"
+ },
+ {
+  "ref_id": "fd822649b5",
+  "input": {
+   "id": "https://doi.org/10.1093/bib/bbae013"
+  },
+  "queue": "resolved",
+  "key": "doi-10.1093_bib_bbae013",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "done",
+   "parse": "done"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "source": "pmc-oa",
+   "prefix": "PMC10849173.1",
+   "files": 13,
+   "license": "CC BY"
+  },
+  "fulltext_source": "pmc-oa",
+  "parser": "jats2md"
+ },
+ {
+  "ref_id": "1e7efd6349",
+  "input": {
+   "title": "MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction"
+  },
+  "queue": "resolved",
+  "key": "arxiv-2608.06253",
+  "resolve_via": "title:arxiv",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "done",
+   "parse": "needs_user"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "source": "arxiv-pdf",
+   "url": "https://arxiv.org/pdf/2608.06253v1"
+  },
+  "fulltext_source": "arxiv-pdf",
+  "parser": null
+ },
+ {
+  "ref_id": "0f89f4129a",
+  "input": {
+   "id": "10.1021/acs.analchem.5c00277"
+  },
+  "queue": "resolved",
+  "key": "doi-10.1021_acs.analchem.5c00277",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "done",
+   "parse": "needs_user"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "source": "user-pdf",
+   "file": "acs.analchem.5c00277 (1).pdf"
+  },
+  "fulltext_source": "user-pdf",
+  "parser": null
+ },
+ {
+  "ref_id": "fd2df0853a",
+  "input": {
+   "id": "10.1016/j.aca.2018.08.060"
+  },
+  "queue": "resolved",
+  "key": "doi-10.1016_j.aca.2018.08.060",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "needs_user",
+   "parse": "pending"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "kind": "manual_download",
+   "reason": "no PMCID",
+   "save_as": "<RUN>/inbox/doi-10.1016_j.aca.2018.08.060.pdf"
+  },
+  "fulltext_source": null,
+  "parser": null
+ },
+ {
+  "ref_id": "9e2073ac88",
+  "input": {
+   "title": "Denoising Search doubles the number of metabolite and exposome annotations in human plasma using an Orbitrap Astral mass spectrometer",
+   "authors": "Kong"
+  },
+  "queue": "resolved",
+  "key": "doi-10.1038_s41592-025-02646-x",
+  "resolve_via": "user:choose",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "needs_user",
+   "parse": "pending"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "kind": "manual_download",
+   "reason": "author manuscript (not OA subset)",
+   "save_as": "<RUN>/inbox/doi-10.1038_s41592-025-02646-x.pdf"
+  },
+  "fulltext_source": null,
+  "parser": null
+ },
+ {
+  "ref_id": "1ef5b06ce6",
+  "input": {
+   "id": "10.1016/j.trac.2022.116825"
+  },
+  "queue": "resolved",
+  "key": "doi-10.1016_j.trac.2022.116825",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "needs_user",
+   "parse": "pending"
+  },
+  "verify": {
+   "comparison": "needs_review",
+   "decisions": [
+    "year"
+   ]
+  },
+  "decisions": {
+   "year": {
+    "choice": "primary"
+   }
+  },
+  "fetch": {
+   "kind": "manual_download",
+   "reason": "no PMCID",
+   "save_as": "<RUN>/inbox/doi-10.1016_j.trac.2022.116825.pdf"
+  },
+  "fulltext_source": null,
+  "parser": null
+ },
+ {
+  "ref_id": "8747e0d727",
+  "input": {
+   "id": "10.29296/25877313-2023-09-02"
+  },
+  "queue": "resolved",
+  "key": "doi-10.29296_25877313-2023-09-02",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "needs_user",
+   "parse": "pending"
+  },
+  "verify": {
+   "comparison": "needs_review",
+   "decisions": [
+    "first_author"
+   ]
+  },
+  "decisions": {
+   "first_author": {
+    "choice": "primary"
+   }
+  },
+  "fetch": {
+   "kind": "manual_download",
+   "reason": "no PMCID",
+   "save_as": "<RUN>/inbox/doi-10.29296_25877313-2023-09-02.pdf"
+  },
+  "fulltext_source": null,
+  "parser": null
+ },
+ {
+  "ref_id": "ceb29b0746",
+  "input": {
+   "id": "10.1101/2024.11.04.621329"
+  },
+  "queue": "resolved",
+  "key": "doi-10.1101_2024.11.04.621329",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "needs_user",
+   "parse": "pending"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "kind": "manual_download",
+   "reason": "no PMCID",
+   "save_as": "<RUN>/inbox/doi-10.1101_2024.11.04.621329.pdf"
+  },
+  "fulltext_source": null,
+  "parser": null
+ },
+ {
+  "ref_id": "400ac6222e",
+  "input": {
+   "id": "10.1038/s41598-023-46312-8",
+   "title": "MS-DIAL: data-independent MS/MS deconvolution for comprehensive metabolome analysis"
+  },
+  "queue": "skipped",
+  "key": "doi-10.1038_s41598-023-46312-8",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "skipped",
+   "fetch": "skipped",
+   "parse": "skipped"
+  },
+  "verify": {
+   "reason": "skipped by user"
+  },
+  "decisions": {},
+  "fetch": {
+   "reason": "skipped by user"
+  },
+  "fulltext_source": null,
+  "parser": null
+ },
+ {
+  "ref_id": "c05ef38a7f",
+  "input": {
+   "id": "10.1038/nmeth.3393",
+   "title": "MS-DIAL: data-independent MS/MS deconvolution for comprehensive metabolome analysis"
+  },
+  "queue": "resolved",
+  "key": "doi-10.1038_nmeth.3393",
+  "resolve_via": "given:id",
+  "stages": {
+   "resolve": "done",
+   "verify": "done",
+   "fetch": "done",
+   "parse": "done"
+  },
+  "verify": {
+   "comparison": "agree",
+   "decisions": []
+  },
+  "decisions": {},
+  "fetch": {
+   "source": "pmc-oa",
+   "prefix": "PMC4449330.1",
+   "files": 7,
+   "license": "TDM"
+  },
+  "fulltext_source": "pmc-oa",
+  "parser": "jats2md"
+ }
+]

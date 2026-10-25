@@ -1,0 +1,32 @@
+# Acceptance set (2026-10-25). Expected outcome after "#>".
+# PMC OA subset -> JATS (all have a stored MinerU cloud parse in the author's library for comparison)
+10.1038/s41467-021-24985-x
+#> resolve via DOI, fetch pmc-oa, parse jats2md
+PMC4449330
+#> PMCID input -> ID converter -> 10.1038/nmeth.3393, pmc-oa
+Quality Control of Targeted Plasma Lipids in a Large-Scale Cohort Study Using Liquid Chromatography-Tandem Mass Spectrometry | Hirayama | Metabolites | 2023
+#> title (ASCII hyphen instead of en dash) + author + journal + year -> 10.3390/metabo13040558, pmc-oa
+https://doi.org/10.1093/bib/bbae013
+#> DOI URL form, pmc-oa
+# arXiv by title only
+MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction
+#> resolve via arXiv title search, fetch arxiv-pdf, parse mineru-cloud
+# Closed access: links only; one gets a user PDF afterwards
+10.1021/acs.analchem.5c00277
+#> manual download; then user PDF -> mineru-cloud
+10.1016/j.aca.2018.08.060
+#> manual download, left pending (exit 3)
+# Preprint journal pair, title only -> must ask
+Denoising Search doubles the number of metabolite and exposome annotations in human plasma using an Orbitrap Astral mass spectrometer | Kong
+#> needs_user: Research Square preprint vs Nature Methods
+# Known source conflicts
+10.1016/j.trac.2022.116825
+#> year conflict 2023 (CrossRef) vs 2022 (Sciverse)
+10.29296/25877313-2023-09-02
+#> first author Latin vs Cyrillic
+# bioRxiv preprint (not a fetched source)
+10.1101/2024.11.04.621329
+#> manual download
+# Identifier contradicts the typed title
+10.1038/s41598-023-46312-8 | MS-DIAL: data-independent MS/MS deconvolution for comprehensive metabolome analysis
+#> reference_mismatch
